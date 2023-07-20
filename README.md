@@ -5,6 +5,8 @@
 
 ![image-1](https://github.com/Aditya-14314581/Real_Time_Chat_Application/assets/122261389/a24c16c4-bdee-4c3d-9f49-bc1a5e5e7c45)
 
+![image](https://github.com/Aditya-14314581/Real_Time_Chat_Application/assets/122261389/6efc3255-70ae-44fd-8231-236d8702bea0)
+
 
 This is a React-based chat application with advanced features such as great design and functionality, message read indicators, image support, sound notifications, multiple rooms creation, and more. It provides a unique chat experience not commonly found on other platforms.
 
