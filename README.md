@@ -37,7 +37,7 @@ This is a React-based chat application with advanced features such as great desi
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/react-chat-app.git`
+1. Clone the repository: `git clone git@github.com:Aditya-14314581/Real_Time_Chat_Application.git`
 2. Navigate to the project directory: `cd react-chat-app`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
